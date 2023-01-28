@@ -1,0 +1,8 @@
+Some resources for upgrading the project later. 
+
+https://www.geeksforgeeks.org/program-sudoku-generator/
+https://www.sudokuwiki.org/Sudoku_Creation_and_Grading.pdf 
+http://norvig.com/sudoku.html
+http://norvig.com/sudopy.shtml
+https://www.geeksforgeeks.org/backtracking-algorithms/ 
+https://www.geeksforgeeks.org/check-given-string-sum-string/
